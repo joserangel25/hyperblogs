@@ -3,7 +3,7 @@ Nos muestra todos los cambios desde el inicio que ha presentado el documento
 
 
 ##Git log
-Nos muestra la historia de commits que tenga un archivo (git log #nombre de archivo)
+Nos muestra la historia de commits que tenga un archivo (git log #nombre de archivo). Hay una variante que es agregando el --stat (con esto nos muestra el cambio en el peso de los archivos y el nombre de estos -si fueron modificados)
 
 ##Git diff
 Este comando nos muestra las diferencias que tienen los archivos entre commits.
